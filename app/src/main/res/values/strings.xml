@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PADC_HelloWorld</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- login form -->
+    <string name="lbl_username">Username</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
